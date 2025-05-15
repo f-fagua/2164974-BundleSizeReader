@@ -10,18 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Sample
+  m_Name: Packed Assets
   m_EditorClassIdentifier: 
-  m_GroupName: Sample
-  m_GUID: a8281620314b94552a398309667ae222
+  m_GroupName: Packed Assets
+  m_GUID: 19989e8de513d47ae89afb1c039ee9b4
   m_SerializeEntries:
-  - m_GUID: 11e4f99bf027645f5a5c949114dc0f85
-    m_Address: Assets/Data
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9fe7d1221c81446afa480e9b4382201b
-    m_Address: Assets/image.png
+  - m_GUID: 4298d36d2edbb44ecb50c253830010cd
+    m_Address: Assets/New Material.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -29,5 +24,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: b9e46ae5703a4477396b30ab6c0b091b, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: ca9cd01d0836f4b5a87d53afcf57d64b, type: 2}
-    - {fileID: 11400000, guid: 2dd03b5a9a8ba4cb0b33f25ec8003706, type: 2}
+    - {fileID: 11400000, guid: 167c689ab0aed48c181b660ee0749e5f, type: 2}
+    - {fileID: 11400000, guid: bff4907c525eb4035960091517d2a7ea, type: 2}
